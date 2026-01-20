@@ -1,5 +1,6 @@
 # DSA-StudentGradingSystem
---Team Project Overview--
+--Project Overview--
+
 The project is about Student Grading System, programmed just to suits the needs of teaching force. The system allows users to enter student credentials to make them available for marking purposes. A student grade can be graded or undone in the system. The system also introduces specific student searching system to know their grade and view all the marked students system.
 
 --Descriptions of data structures and algorithms used--
@@ -16,3 +17,4 @@ This data structure is a sequence of linearly connected nodes that normally cont
 4. Sequential Search
 This is a simple yet easy-implementing searching algorithm that checks each element in a particular list, one by one sequentially until it finds a match or reaches the end of the list.
 
+-The project is a team project of Data Structure and Algorithms
