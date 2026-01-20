@@ -1,5 +1,5 @@
 # DSA-StudentGradingSystem
---Project Overview--
+--Team Project Overview--
 The project is about Student Grading System, programmed just to suits the needs of teaching force. The system allows users to enter student credentials to make them available for marking purposes. A student grade can be graded or undone in the system. The system also introduces specific student searching system to know their grade and view all the marked students system.
 
 --Descriptions of data structures and algorithms used--
